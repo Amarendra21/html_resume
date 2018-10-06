@@ -1,0 +1,32 @@
+<html>
+<head>
+<title> My Resume
+</title><h2 align="center"><TT><u>RESUME </u></TT></h2>
+</head> 
+<body bgcolor="cyan">
+<DIV><PRE> <i>
+<Strong>ABC </Strong>
+Varad Boys Hostel,
+Ravet- Pune
+411044
+Mobile No.- 9876543210
+<B>Email ID:</B> abc.123@gmail.com
+</i></PRE>
+</DIV>
+<hr/>
+<h2> EDUCATIONAL QUALIFICATIONS</h2>
+<table width = "100%" cellpadding = 2>
+<tr align = "LEFT"> <th>Qualification</th> <th>Institute</th> <th>University</th> <th>Marks</th> <th>Year of Passing</th></tr>
+<tr align = "LEFT"> <td>B.tech</td> <td> Cambridge</td> <td> USA </td> <td> 700</td> <td> 2017 </td></tr>
+<tr align = "LEFT"> <td>HSC</td> <td> CBSE</td> <td> DPS </td> <td> 900</td> <td> 2011 </td></tr>
+<tr align = "LEFT"> <td>SSC</td> <td> CBSE</td> <td> DPS </td> <td> 800</td> <td> 2013 </td></tr>
+</table>
+<h2>SKILL SET &nbsp; &nbsp; :</h2>
+<pre>
+<B>Operatng Systems: </B> Windows 9'x, DOS
+<B>Language:	</B>   C/C++
+<B>Front-End: </B>	   VB 6.0
+<B>DBMS:</B> 		   Oracle, My SQL
+
+</body>
+</html>
